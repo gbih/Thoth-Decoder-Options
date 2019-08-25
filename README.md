@@ -1,6 +1,6 @@
 # Thoth.Json Decoder Examples
 
--   Misc examples of decoding with the Option type
+-   Misc examples of decoding with the Option type (auto and manual)
 
 -   Targetting netcoreapp3.0 in .fsproj
 
